@@ -15,9 +15,6 @@ Meu email: allansoares007@gmail.com
 # Sugestão: Crie sua própria história a partir desta.
 
 import PySimpleGUI as sg
-from tkinter import *
-
-
 
 
 
