@@ -1,5 +1,5 @@
 '''
-(1) Parte referente ao layout do livro-jogo, uma luz na escuridão
+(1) Parte referente ao layout do livro-jogo, Uma luz na escuridão
 (2) Há um pequeno bug ao fechar a janela no 'x'. Neste caso deve-se apertar 'Stop' nesta janela logo após. Fechar a
 janela apertando o botão 'Exit' está funcionando normalmente. Recomendamos o uso do arquivo
 'Uma_luz_na_escuridao_ilustrada.py' para entender o layout. Nesta janela estão somente os elementos do layout sem
