@@ -13,9 +13,9 @@ funcionalidade está bom. Se melhorar ou criar uma nova história eu gostaria de
 Meu email: allansoares007@gmail.com
 '''
 
-
-#################################################CÓDIGO COMPLETO#################################################
 # Sugestão: Crie sua própria história a partir desta.
+
+#####################################################LAYOUT#####################################################
 
 import PySimpleGUI as sg    #Biblioteca responsável pela criação da interface
 
