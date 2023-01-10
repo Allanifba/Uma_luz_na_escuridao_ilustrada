@@ -1,1 +1,3 @@
-Salve o aplicativo 'Uma_luz_na_escuridao_ilustrada' na mesma pasta que as imagens.
+[1] Salve o aplicativo 'Uma_luz_na_escuridao_ilustrada' na mesma pasta que as imagens.
+[2] Os vídeos da playlist Projeto: https://youtube.com/playlist?list=PL8aWdrmfXHiKmrueuNIFEfpX1BlaxHsfC estão se referindo ao arquivo Uma_luz_na_escuridao_ilustrada. Contudo, um bug foi encontrado. Sendo assim, o arquivo final é dado por Uma_luz_na_escuridao_ilustrada_versao_final.
+
